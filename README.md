@@ -18,3 +18,9 @@ Prototype is a creational design pattern that lets you copy existing objects wit
 ### Singleton
 
 Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+
+## Structural
+
+### Adapter
+
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
