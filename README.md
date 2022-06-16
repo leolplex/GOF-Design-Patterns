@@ -45,3 +45,11 @@ Flyweight is a structural design pattern that lets you fit more objects into the
 ### Proxy
 
 Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+
+## Behavioral
+
+### Chain of Responsibility
+
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+
