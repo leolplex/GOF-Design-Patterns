@@ -77,3 +77,6 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 ### State
 State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
 
+### Strategy
+Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+
