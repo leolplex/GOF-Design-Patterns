@@ -84,3 +84,5 @@ Strategy is a behavioral design pattern that lets you define a family of algorit
 
 Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
 
+### Visitor
+Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
